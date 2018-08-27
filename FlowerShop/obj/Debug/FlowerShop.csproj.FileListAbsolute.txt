@@ -1,0 +1,40 @@
+C:\Proiecte\Phase 3\Phase 3\FlowerShop\bin\Debug\FlowerShop.exe.config
+C:\Proiecte\Phase 3\Phase 3\FlowerShop\bin\Debug\FlowerShop.exe
+C:\Proiecte\Phase 3\Phase 3\FlowerShop\bin\Debug\FlowerShop.pdb
+C:\Proiecte\Phase 3\Phase 3\FlowerShop\bin\Debug\ImageExampleControl.dll
+C:\Proiecte\Phase 3\Phase 3\FlowerShop\bin\Debug\System.Data.SQLite.dll
+C:\Proiecte\Phase 3\Phase 3\FlowerShop\bin\Debug\ImageExampleControl.pdb
+C:\Proiecte\Phase 3\Phase 3\FlowerShop\bin\Debug\System.Data.SQLite.xml
+C:\Proiecte\Phase 3\Phase 3\FlowerShop\obj\Debug\FlowerShop.csprojResolveAssemblyReference.cache
+C:\Proiecte\Phase 3\Phase 3\FlowerShop\obj\Debug\FlowerShop.AddNewFlower.resources
+C:\Proiecte\Phase 3\Phase 3\FlowerShop\obj\Debug\FlowerShop.Flowery.resources
+C:\Proiecte\Phase 3\Phase 3\FlowerShop\obj\Debug\FlowerShop.NewOrder.resources
+C:\Proiecte\Phase 3\Phase 3\FlowerShop\obj\Debug\FlowerShop.OrdersManager.resources
+C:\Proiecte\Phase 3\Phase 3\FlowerShop\obj\Debug\FlowerShop.PieChartControl.resources
+C:\Proiecte\Phase 3\Phase 3\FlowerShop\obj\Debug\FlowerShop.Properties.Resources.resources
+C:\Proiecte\Phase 3\Phase 3\FlowerShop\obj\Debug\FlowerShop.csproj.GenerateResource.Cache
+C:\Proiecte\Phase 3\Phase 3\FlowerShop\obj\Debug\FlowerShop.exe
+C:\Proiecte\Phase 3\Phase 3\FlowerShop\obj\Debug\FlowerShop.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\FlowerShop\FlowerShop\bin\Debug\FlowerShop.exe.config
+\\Mac\Home\Documents\Visual Studio 2015\Projects\FlowerShop\FlowerShop\obj\Debug\FlowerShop.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\FlowerShop\FlowerShop\obj\Debug\FlowerShop.pdb
+C:\Users\Eops-PC\Documents\Old College Projects\Old Projects\FlowerShop\FlowerShop\FlowerShop\bin\Debug\FlowerShop.exe.config
+C:\Users\Eops-PC\Documents\Old College Projects\Old Projects\FlowerShop\FlowerShop\FlowerShop\bin\Debug\FlowerShop.exe
+C:\Users\Eops-PC\Documents\Old College Projects\Old Projects\FlowerShop\FlowerShop\FlowerShop\bin\Debug\FlowerShop.pdb
+C:\Users\Eops-PC\Documents\Old College Projects\Old Projects\FlowerShop\FlowerShop\FlowerShop\bin\Debug\ImageExampleControl.dll
+C:\Users\Eops-PC\Documents\Old College Projects\Old Projects\FlowerShop\FlowerShop\FlowerShop\bin\Debug\System.Data.SQLite.dll
+C:\Users\Eops-PC\Documents\Old College Projects\Old Projects\FlowerShop\FlowerShop\FlowerShop\bin\Debug\ImageExampleControl.pdb
+C:\Users\Eops-PC\Documents\Old College Projects\Old Projects\FlowerShop\FlowerShop\FlowerShop\bin\Debug\System.Data.SQLite.xml
+C:\Users\Eops-PC\Documents\Old College Projects\Old Projects\FlowerShop\FlowerShop\FlowerShop\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Eops-PC\Documents\Old College Projects\Old Projects\FlowerShop\FlowerShop\FlowerShop\obj\Debug\FlowerShop.csprojAssemblyReference.cache
+C:\Users\Eops-PC\Documents\Old College Projects\Old Projects\FlowerShop\FlowerShop\FlowerShop\obj\Debug\FlowerShop.AddNewFlower.resources
+C:\Users\Eops-PC\Documents\Old College Projects\Old Projects\FlowerShop\FlowerShop\FlowerShop\obj\Debug\FlowerShop.Flowery.resources
+C:\Users\Eops-PC\Documents\Old College Projects\Old Projects\FlowerShop\FlowerShop\FlowerShop\obj\Debug\FlowerShop.NewOrder.resources
+C:\Users\Eops-PC\Documents\Old College Projects\Old Projects\FlowerShop\FlowerShop\FlowerShop\obj\Debug\FlowerShop.OrdersManager.resources
+C:\Users\Eops-PC\Documents\Old College Projects\Old Projects\FlowerShop\FlowerShop\FlowerShop\obj\Debug\FlowerShop.PieChartControl.resources
+C:\Users\Eops-PC\Documents\Old College Projects\Old Projects\FlowerShop\FlowerShop\FlowerShop\obj\Debug\FlowerShop.Properties.Resources.resources
+C:\Users\Eops-PC\Documents\Old College Projects\Old Projects\FlowerShop\FlowerShop\FlowerShop\obj\Debug\FlowerShop.csproj.GenerateResource.cache
+C:\Users\Eops-PC\Documents\Old College Projects\Old Projects\FlowerShop\FlowerShop\FlowerShop\obj\Debug\FlowerShop.csproj.CoreCompileInputs.cache
+C:\Users\Eops-PC\Documents\Old College Projects\Old Projects\FlowerShop\FlowerShop\FlowerShop\obj\Debug\FlowerShop.csproj.CopyComplete
+C:\Users\Eops-PC\Documents\Old College Projects\Old Projects\FlowerShop\FlowerShop\FlowerShop\obj\Debug\FlowerShop.exe
+C:\Users\Eops-PC\Documents\Old College Projects\Old Projects\FlowerShop\FlowerShop\FlowerShop\obj\Debug\FlowerShop.pdb

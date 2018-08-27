@@ -1,0 +1,14 @@
+C:\Proiecte\Phase 3\Phase 3\ImageExampleControl\bin\Debug\ImageExampleControl.dll
+C:\Proiecte\Phase 3\Phase 3\ImageExampleControl\bin\Debug\ImageExampleControl.pdb
+C:\Proiecte\Phase 3\Phase 3\ImageExampleControl\obj\Debug\ImageExampleControl.csprojResolveAssemblyReference.cache
+C:\Proiecte\Phase 3\Phase 3\ImageExampleControl\obj\Debug\ImageExampleControl.ExampleWithImageAndText.resources
+C:\Proiecte\Phase 3\Phase 3\ImageExampleControl\obj\Debug\ImageExampleControl.csproj.GenerateResource.Cache
+C:\Proiecte\Phase 3\Phase 3\ImageExampleControl\obj\Debug\ImageExampleControl.dll
+C:\Proiecte\Phase 3\Phase 3\ImageExampleControl\obj\Debug\ImageExampleControl.pdb
+C:\Users\Eops-PC\Documents\Old College Projects\Old Projects\FlowerShop\FlowerShop\ImageExampleControl\bin\Debug\ImageExampleControl.dll
+C:\Users\Eops-PC\Documents\Old College Projects\Old Projects\FlowerShop\FlowerShop\ImageExampleControl\bin\Debug\ImageExampleControl.pdb
+C:\Users\Eops-PC\Documents\Old College Projects\Old Projects\FlowerShop\FlowerShop\ImageExampleControl\obj\Debug\ImageExampleControl.ExampleWithImageAndText.resources
+C:\Users\Eops-PC\Documents\Old College Projects\Old Projects\FlowerShop\FlowerShop\ImageExampleControl\obj\Debug\ImageExampleControl.csproj.GenerateResource.cache
+C:\Users\Eops-PC\Documents\Old College Projects\Old Projects\FlowerShop\FlowerShop\ImageExampleControl\obj\Debug\ImageExampleControl.csproj.CoreCompileInputs.cache
+C:\Users\Eops-PC\Documents\Old College Projects\Old Projects\FlowerShop\FlowerShop\ImageExampleControl\obj\Debug\ImageExampleControl.dll
+C:\Users\Eops-PC\Documents\Old College Projects\Old Projects\FlowerShop\FlowerShop\ImageExampleControl\obj\Debug\ImageExampleControl.pdb
